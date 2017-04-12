@@ -43,5 +43,11 @@ function calcularIMC(){
 }
 
 function refresh() {
-    location.reload();
+    var test = document.getElementById("message");
+    test.innerHTML = '';
+
+    var clean = document.querySelectorAll("input");
+    for (var i = 0; i < clean.length; i++) {
+        clean[i].value = "";        
+    }
 }

@@ -18,6 +18,8 @@ The following technologies was used:
 - JavaScript
 - Surge.sh
 
+### Accessing the Web App
+
 The application is running at [appimc.surge.sh](http://appimc.surge.sh/)
 
 ### About the IMC
@@ -25,7 +27,7 @@ The application is running at [appimc.surge.sh](http://appimc.surge.sh/)
 Body mass index (IMC) is a measure of body fat based on height and weight that applies to adult men and women.
 The index is calculated by the formula:
 
-`weight / (height * height)`
+`imc = weight / (height * height)`
 
 The condition used to classify the index was accordingly to NHANES II (National Health and Nutrition Examination 
 Survey). The following criteria was used:
