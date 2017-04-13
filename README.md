@@ -1,7 +1,7 @@
 ### IMC Calculator
 <p align="center">
     <img src="https://img.shields.io/badge/development-practice-blue.svg" alt="Practice">
-    <img src="https://img.shields.io/badge/PW-Homework%2001-blue.svg" alt="PW Homework">
+    <img src="https://img.shields.io/badge/PW-Homework%2002-blue.svg" alt="PW Homework">
     <img src="https://img.shields.io/badge/Publish-surge.sh-red.svg" alt="Surge">
 </p>
 
@@ -21,6 +21,20 @@ The following technologies was used:
 ### Accessing the Web App
 
 The application is running at [appimc.surge.sh](http://appimc.surge.sh/)
+
+To run the application locally, clone the repository:
+
+`git clone https://github.com/akwaryo/Imc.git`
+
+Then you can run with Tomcat, just type in the terminal, inside the project folder:
+
+`mvnw org.apache.tomcat.maven:tomcat7-maven-plugin:run`
+
+Open any browser and type:
+
+`http://localhost:8080/imc/`
+
+And Done! Now you can access the project.
 
 ### About the IMC
 
