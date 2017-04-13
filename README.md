@@ -10,7 +10,7 @@ Simple application to calculate Body Mass Index (IMC) developed as a Web Program
 
 ---
 
-![Demo](https://github.com/akwaryo/Imc/blob/master/webapp/demo.png)
+![Demo](https://github.com/akwaryo/Imc/blob/master/src/main/webapp/assets/demo.png)
 
 
 The following technologies was used:
