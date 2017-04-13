@@ -43,8 +43,7 @@ function calcularIMC(){
 }
 
 function refresh() {
-    var test = document.getElementById("message");
-    test.innerHTML = '';
+    document.getElementById("message").innerHTML = '';
 
     var clean = document.querySelectorAll("input");
     for (var i = 0; i < clean.length; i++) {
