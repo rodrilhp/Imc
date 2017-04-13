@@ -3,6 +3,7 @@
     <img src="https://img.shields.io/badge/development-practice-blue.svg" alt="Practice">
     <img src="https://img.shields.io/badge/PW-Homework%2002-blue.svg" alt="PW Homework">
     <img src="https://img.shields.io/badge/Publish-surge.sh-red.svg" alt="Surge">
+    <img src="https://img.shields.io/badge/Maven-3.3.9-red.svg" alt="Maven">
 </p>
 
 Simple application to calculate Body Mass Index (IMC) developed as a Web Programming class assignment.
